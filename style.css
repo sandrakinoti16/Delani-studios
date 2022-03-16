@@ -59,7 +59,7 @@ html{
 }
 .services{
   text-align: center;
-  background-image: url("ser");
+  background-image: url("services.jpg");
   color: white;
   background-position: center;
   background-size: cover;
@@ -102,7 +102,7 @@ html{
   font-family: 'Gabriela', serif;
 }
 .contact{
-  background-image: url('../images/backgrounds/c_image.jpg');
+  background-image: url('contact.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
