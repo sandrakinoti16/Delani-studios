@@ -3,7 +3,7 @@ html{
   scroll-behavior: smooth;
 }
 .landing{
-  background-image: url('landing\ page.jpg');
+  background-image: url('assets/landing\ page.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@ html{
 }
 .services{
   text-align: center;
-  background-image: url("services.jpg");
+  background-image: url("assets/services.jpg");
   color: white;
   background-position: center;
   background-size: cover;
@@ -102,7 +102,7 @@ html{
   font-family: 'Gabriela', serif;
 }
 .contact{
-  background-image: url('contact.jpg');
+  background-image: url('assets/contact.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
