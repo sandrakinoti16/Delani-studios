@@ -86,7 +86,7 @@ html{
   padding-bottom: 38px;
 }
 #portfolio{
-  display: flex;
+  display: none;
   flex-wrap: wrap;
   align-items: center;
   margin-left:18%;
@@ -154,12 +154,12 @@ footer{
 footer p{
   margin-top: 10px;
 }
-#product, #development, #design{
+.product, .development, .design{
   display: none;
   font-family: 'Copse', serif;
   font-size: 16px;
 }
-#product .title, #development .title, #design .title{
+.product .title, .development .title, #design .title{
   font-size: 20px;
   font-weight: 600;
 }
